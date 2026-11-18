@@ -33,7 +33,7 @@
           }
         nav ul{list-style-type:none;}
         nav li{
-                     width:170px;
+                     width:180px;
             height:38px;
             
                      margin-right:10px;
@@ -65,6 +65,7 @@
         float:left;
         background-color:burlywood;
     }
+      .sweets img{display:block;}
         h3{font-size:20px;color:brown;}
          footer{
           clear:both;
