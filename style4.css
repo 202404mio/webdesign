@@ -33,7 +33,7 @@
           }
         nav ul{list-style-type:none;}
         nav li{
-                     width:170px;
+                     width:150px;
             height:38px;
             
                      margin-right:10px;
@@ -46,7 +46,7 @@
 
  main{
      clear:both;
-                 width:630px;
+                 width:620px;
      padding-top:10px;
      padding-bottom:10px;
                  padding-left:10px;
@@ -58,7 +58,7 @@
       color:darkred;
     }
     .sweets{
-                   width:170px;
+                   width:150px;
         
         margin-top:20px;
                     margin-right:10px;
